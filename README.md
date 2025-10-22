@@ -8,3 +8,5 @@ int main() {
     float densidade1, densidade2;
     int jogador;
     float soma1, soma2;
+return 0;
+}
